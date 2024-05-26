@@ -1,3 +1,30 @@
-body {
+@import 'utils';
+@import 'fonts';
+@import 'typography';
+@import './header';
+@import './container';
+@import './menu';
+@import './more-then-content';
+@import './about';
+@import './tech';
+@import './benefits';
+@import './contact';
+@import './footer';
+@import './language';
+@import './faq';
+@import './help';
+@import './place-order';
+@import './pay';
+@import './complete';
+@import './video';
+
+* {
   margin: 0;
+  font-family: inter, sans-serif;
+  font-style: normal;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: linear-gradient(108deg, #191536 0%, #000 100%);
 }
