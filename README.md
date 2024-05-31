@@ -17,7 +17,7 @@ HTML (HyperText Markup Language)
   - Header: Contains the logo and navigation menu for easy navigation.
   - Main Content: Includes sections like product information, benefits, user testimonials, and call-to-action buttons.
   - Footer: Provides additional information such as contact details, social media links, and copyright.
-  - Semantic HTML: Uses semantic elements like (<header>, <main>, <section>, <footer>, and <nav>) to improve accessibility and SEO, making the content more understandable to both users and search engines.
+  - Semantic HTML: Uses semantic elements like header, main, section, footer, and nav to improve accessibility and SEO, making the content more understandable to both users and search engines.
     
 SCSS (Sassy CSS)
   - Variables: Store colors, fonts, and other styles in one place for easier maintenance.
