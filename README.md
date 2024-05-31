@@ -3,7 +3,7 @@
 Project Description: Landing Page with Modern Web Technologies
 
 Overview
-  This landing page showcases the effective use of modern web technologies to create an efficient, user-friendly, and visually appealing design.
+  - This landing page showcases the effective use of modern web technologies to create an efficient, user-friendly, and visually appealing design.
 
 Features
   - Structured Content: The page is divided into clear sections such as Header, Main Content, and Footer.
@@ -33,4 +33,4 @@ JavaScript
   - Form Validation: Validate user-entered data on the client side before submission.
   
 Conclusion
-    This project demonstrates fundamental web development skills, including HTML for structure, SCSS for organized styling, and JavaScript for interactivity and dynamic behavior. It highlights the effective use of modern technologies to create an engaging and user-friendly landing page. Using semantic HTML and BEM methodology further ensures the page is accessible, SEO-friendly, and easy to maintain.
+  - This project demonstrates fundamental web development skills, including HTML for structure, SCSS for organized styling, and JavaScript for interactivity and dynamic behavior. It highlights the effective use of modern technologies to create an engaging and user-friendly landing page. Using semantic HTML and BEM methodology further ensures the page is accessible, SEO-friendly, and easy to maintain.
